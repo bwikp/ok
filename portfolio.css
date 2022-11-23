@@ -1,6 +1,16 @@
 *{
-    margin:0;
+    margin: 0;
 }
-html{
-    width: 100%;
+
+html,body{
+    height: 100%;
+}
+#top{
+   height: 10%;
+}
+#main {
+    height: 80%;
+}
+#footer{
+    height: 10%;
 }
